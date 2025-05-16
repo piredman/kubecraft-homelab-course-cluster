@@ -4,3 +4,4 @@ KUBECONFIG = "/workspaces/kubecraft-homelab-course-cluster/kubeconfig"
 [tools]
 kubectl = "latest"
 flux2 = "latest"
+k9s = "lastest"
